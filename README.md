@@ -1,3 +1,4 @@
-# hismith-cli 🍆😻 x3
-Controlling the Hismith Pro 1 from Python over Bluetooth.<br>
-Also gathering data from Arduino over pyserial.
+# hismith.py 🍆😻
+Controlling various Hismith devices from Python over Bluetooth.<br>
+
+As of right now, the old_min.py, premium_min.py and servok_min.py work, Serial is being buggy.<br>
